@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Mod3_Assignment">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="Mod3_Assignment"/>
+    </wb-module>
+</project-modules>
